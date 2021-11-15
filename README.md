@@ -8,3 +8,4 @@ Each assignment has a separate directory and a README describing it.
 
 + [<u>Assignment 1</u>](./Assignment%201)- This assignment was based on linear data structures, specifically linked lists.
 + [<u>Assignment 2.1</u>](./Assignment%202.1)- This assignment was based on a self balancing binary tree, specifically `2-3 trees`. This assignment did not include a Hackerrank component. All the three files (excluding [Problem Statement.pdf](./Assignment%202.1/Problem%20Statement.pdf)) were zipped and uploaded on [mooKIT](https://hello.iitk.ac.in/).
++ [<u>Assignment 3</u>](./Assignment%203)- This assignment was based on graphs. 

@@ -63,7 +63,14 @@ int main(){
     p.init(n);
     q.init(m);
 
-    poly r = p.mul(q);
+    poly r;
+    
+    // For obtaining O(m*n*min(m, n))
+    if(p.size < q.size){
+        r = p.mul(q);
+    }else{
+        r = q.mul(p);
+    }
     r.deleteZeroes(); // Remove any nodes with zero co-efficient in r
     r.print();
 

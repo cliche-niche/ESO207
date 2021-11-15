@@ -11,5 +11,5 @@ The constraints on [HackerRank](https://www.hackerrank.com/) included limits on 
 ### Files
 The directory contains 4 files other than this README-
 + [Assignment](./Problem%20Statement.pdf)- Contains the problem statements and the instructions for the assignment.
-+ [Bipartite](./Bipartite.cpp)- This file contains the final submission made to the problem for adding two polynomials.
++ [Bipartite](./Bipartite.cpp)- This file contains the final submission made to the problem for checking if a graph is Bipartite.
 + [Pseudo-code](./PA3_Analysis_200057_200076.pdf)- Contains the pseudo-code and the complexity analysis. It was the final submission for the theoretical part.
